@@ -1,2 +1,12 @@
-# CodeRepository
--
+Greetings! Welcome to my #CodeRepository. My name is Fadli Jihad Dahana Setiawan (he/him/his), I am currently an international graduate student from Indonesia at Columbia University's School of International and Public Affairs (SIPA), majoring in International Finance and Economic Policy. I work part-time at my school as a Teaching Assistant for the course Economics of Finance (Fall '24) and Macroeconomic Analysis (Spring '25). In 2020, I graduated cumlaude from the best university in my country, University of Indonesia, majoring in Economics. I have three years of research experience in economics at several notable research institutions in Indonesia, including the Centre for Strategic and International Studies, J-PAL Southeast Asia, Indonesia Financial Group (IFG) Progress, and Prospera/AIPED. I spent most of that three years of career at Prospera, an economic consulting "firm" which is funded by the Australian Government and implemented by DT Global International Development Company (visit their website for more information: https://prospera.or.id/)
+
+This #CodeRepository comprises noteworthy work done by me (some of those were also done altogether by my colleague(s)), mostly in STATA. I am also starting to gain proficiency in R and Python since I am taking relevant classes and have already taken online classes before. However, I have not really used these two programming languages at my job so I am looking forward to! Other tools that I am proficient in are GTAP (a multi-country CGE model for modeling international economic shock), Bloomberg Terminal, LaTeX, and GPT 4.o (prompt engineering).
+
+I would say that my JPAL do-files were among the most comprehensive do-files I have ever made up to this point (combining matrix-driven visualization in STATA to using put excel to outputting tables to LaTeX). The names of these files are: Fadli-FII-Gender-Analysis-Visualization.do, Fadli-FII-Gender-Analysis-BasicStats (UPDATED).do, Fadli-ECommerce-FuzzyMatching-Location, and Fadli_TraditionalMarket_Extended Descriptive Statistics.do. 
+
+I would like to explore research topics related to sustainable development, the financial sector, and international macroeconomics (or the intersection between all these things). However, I am also open to new research direction. In fact, I have been exposed to various research topics ranging from poverty and inequality to international trade and macro-finance! As for the more fun stuff, I am a big fan of Game of Thrones (just pretend the ending was better) along with its prequel (House of the Dragon), La Casa de Papel, and Harry Potter! I also play some music eventhough I am not a pro by any means :)
+
+Please feel free to connect with me through these channels: 
+https://www.linkedin.com/in/fadlijihad/ || fds2117@columbia.edu 
+
+Thank you!
